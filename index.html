@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Music Playlist</title>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/styles.css">
+    </head>
+    <body>
+
+    <div class="row justify-content-evenly p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
+        <div class="col">
+            <div class="logo">
+                <h3 class="my-0 mr-md-auto">Music Playlist</h3>
+            </div>
+        </div>
+        <div class="col col-auto">
+            <nav id="navigation"></nav>
+        </div>
+    </div>
+
+    <div class="container my-5">
+        <div class="row mb-2">
+            <div class="col-12 col-sm">
+                <h3><strong>Playlist: <span class="text-capitalize" id="playlistTitle"></span></strong></h3>
+            </div>
+            <div class="col-12 col-sm-4">
+                <select class="form-select" id="sortPlaylist" aria-label="Default select example">
+                    <option selected>Order by</option>
+                    <option value="title">Title</option>
+                    <option value="artist">Artist</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div id="listSongs"></div>
+            </div>
+        </div>
+    </div>
+    </body>
+
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</html>
