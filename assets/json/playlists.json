@@ -1,0 +1,90 @@
+{
+  "Chill": [
+    {
+      "title": "Don't Look Back in Anger",
+      "artist": "Oasis"
+    },
+    {
+      "title": "Don't Leave Me (Ne Me Quitte Pas)",
+      "artist": "Regina Spektor"
+    },
+    {
+      "title": "Don't Stop Believin'",
+      "artist": "Journey"
+    },
+    {
+      "title": "Doomsday",
+      "artist": "Elvis Perkins"
+    },
+    {
+      "title": "High and Dry",
+      "artist": "Radiohead"
+    }
+  ],
+  "Rap": [
+    {
+      "title": "Sugar Mountain",
+      "artist": "Neil Young"
+    },
+    {
+      "title": "Submarines",
+      "artist": "The Lumineers"
+    },
+    {
+      "title": "Stuck in the Middle With You",
+      "artist": "Stealers Wheel"
+    },
+    {
+      "title": "Stubborn Love",
+      "artist": "The Lumineers"
+    },
+    {
+      "title": "Stay or Leave",
+      "artist": "Dave Matthews"
+    }
+  ],
+  "Soul": [
+    {
+      "title": "You Belong With Me",
+      "artist": "Taylor Swift"
+    },
+    {
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift"
+    },
+    {
+      "title": "Watching the Wheels",
+      "artist": "John Lennon"
+    },
+    {
+      "title": "Viva La Vida",
+      "artist": "Coldplay"
+    },
+    {
+      "title": "Ya Hey",
+      "artist": "Vampire Weekend"
+    }
+  ],
+  "Rnb": [
+    {
+      "title": "Home",
+      "artist": "Edward Sharpe & The Magnetic Zeros"
+    },
+    {
+      "title": "Honey Do",
+      "artist": "Jimmy Buffett"
+    },
+    {
+      "title": "Hospitals and Jails",
+      "artist": "Mason Jennings"
+    },
+    {
+      "title": "Hotel California",
+      "artist": "The Eagles"
+    },
+    {
+      "title": "Hotel Yorba",
+      "artist": "The White Stripes"
+    }
+  ]
+}
